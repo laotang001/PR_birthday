@@ -1,0 +1,12 @@
+"<table border='1' align='center'>"& _
+"<tr>"& _
+"<td align='center'>"& _
+"<font color='#5F9F9F'>"& _
+"<p>Dear Tony Tang, </p>"& _
+"<p>Pernod Ricard China wishes you a happy birthday! </p>"& _
+"<p>保乐力加恭祝您生日快乐！ </p>"& _
+"</font>"& _
+"</br>"& _
+"<img src='01.jpg' alt='' />"& _
+"</td>"& _
+"</tr>"
